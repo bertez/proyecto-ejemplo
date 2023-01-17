@@ -9,4 +9,5 @@ body > p {
   font-size: 2rem;
   font-family: sans-serif;
   font-weight: bold;
+  text-decoration: underline;
 }
